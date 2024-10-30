@@ -1,9 +1,9 @@
 const cacheName = "Startuped AI-Idea Learnverse-0.1.0";
 const contentToCache = [
-    "Build/v3.loader.js",
-    "Build/v3.framework.js",
-    "Build/v3.data",
-    "Build/v3.wasm",
+    "Build/Build_V1.loader.js",
+    "Build/Build_V1.framework.js",
+    "Build/Build_V1.data",
+    "Build/Build_V1.wasm",
     "TemplateData/style.css"
 
 ];
