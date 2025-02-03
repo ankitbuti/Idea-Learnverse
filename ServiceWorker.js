@@ -1,9 +1,9 @@
 const cacheName = "Startuped -Kids Learnverse-0.1";
 const contentToCache = [
-    "Build/v1.7.loader.js",
-    "Build/v1.7.framework.js.unityweb",
-    "Build/v1.7.data.unityweb",
-    "Build/v1.7.wasm.unityweb",
+    "Build/Main Build 0.9.loader.js",
+    "Build/Main Build 0.9.framework.js.unityweb",
+    "Build/Main Build 0.9.data.unityweb",
+    "Build/Main Build 0.9.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
