@@ -1,0 +1,54 @@
+{
+  "BasicInfo": [
+    {
+      "Level": 1,
+      "Name": "Level1",
+      "Description": "This is the level 1"
+    },
+    {
+      "Level": 2,
+      "Name": "Level2",
+      "Description": "This is the level 2"
+    },
+    {
+      "Level": 3,
+      "Name": "Level3",
+      "Description": "This is the level 3"
+    },
+    {
+      "Level": 4,
+      "Name": "Level4",
+      "Description": "This is the level 4"
+    },
+    {
+      "Level": 5,
+      "Name": "Level5",
+      "Description": "This is the level 5"
+    },
+    {
+      "Level": 6,
+      "Name": "Level6",
+      "Description": "This is the level 6"
+    },
+    {
+      "Level": 7,
+      "Name": "Level7",
+      "Description": "This is the level 7"
+    },
+    {
+      "Level": 8,
+      "Name": "Level8",
+      "Description": "This is the level 8"
+    },
+    {
+      "Level": 9,
+      "Name": "Level9",
+      "Description": "This is the level 9"
+    },
+    {
+      "Level": 10,
+      "Name": "Level10",
+      "Description": "This is the level 10"
+    }
+  ]
+}
